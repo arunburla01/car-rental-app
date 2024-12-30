@@ -1,0 +1,42 @@
+```
+└── 📁lib
+    └── 📁features
+        └── 📁home
+            └── 📁model
+            └── 📁repository
+            └── 📁view
+            └── 📁view_model
+        └── 📁login
+            └── 📁model
+                └── login_request_model.dart
+                └── login_response_model.dart
+            └── 📁repository
+                └── login_repository_impl.dart
+                └── login_repository.dart
+            └── 📁view
+            └── 📁view_model
+                └── login_view_model.dart
+                └── login_view.dart
+        └── 📁signup
+            └── 📁model
+            └── 📁repository
+            └── 📁view
+            └── 📁view_model
+        └── 📁splash
+            └── 📁model
+            └── 📁repository
+            └── 📁view
+            └── 📁view_model
+    └── 📁routes
+        └── routes_constants.dart
+        └── routes.dart
+    └── 📁services
+        └── network_services.dart
+    └── 📁utils
+        └── color_constants.dart
+        └── image_constants.dart
+        └── server_constants.dart
+    └── 📁widgets
+        └── logo_widget.dart
+    └── main.dart
+```
