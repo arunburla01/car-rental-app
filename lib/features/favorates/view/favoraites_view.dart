@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class HomeView extends StatefulWidget {
-  const HomeView({ super.key });
+class FavoraitesView extends StatefulWidget {
+  const FavoraitesView({ super.key });
 
   @override
-  _HomeViewState createState() => _HomeViewState();
+  _FavoraitesView createState() => _FavoraitesView();
 }
 
-class _HomeViewState extends State<HomeView> {
+class _FavoraitesView extends State<FavoraitesView> {
   @override
   Widget build(BuildContext context) {
     return Container(

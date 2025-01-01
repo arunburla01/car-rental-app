@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class HomeView extends StatefulWidget {
-  const HomeView({ super.key });
+class LogoutView extends StatefulWidget {
+  const LogoutView({ super.key });
 
   @override
-  _HomeViewState createState() => _HomeViewState();
+  _LogoutView createState() => _LogoutView();
 }
 
-class _HomeViewState extends State<HomeView> {
+class _LogoutView extends State<LogoutView> {
   @override
   Widget build(BuildContext context) {
     return Container(

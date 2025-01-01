@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class HomeView extends StatefulWidget {
-  const HomeView({ super.key });
+class MyBookingsView extends StatefulWidget {
+  const MyBookingsView({ super.key });
 
   @override
-  _HomeViewState createState() => _HomeViewState();
+  _MyBookingsView createState() => _MyBookingsView();
 }
 
-class _HomeViewState extends State<HomeView> {
+class _MyBookingsView extends State<MyBookingsView> {
   @override
   Widget build(BuildContext context) {
     return Container(

@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class HomeView extends StatefulWidget {
-  const HomeView({ super.key });
+class AddCarView extends StatefulWidget {
+  const AddCarView({ super.key });
 
   @override
-  _HomeViewState createState() => _HomeViewState();
+  _AddCarView createState() => _AddCarView();
 }
 
-class _HomeViewState extends State<HomeView> {
+class _AddCarView extends State<AddCarView> {
   @override
   Widget build(BuildContext context) {
     return Container(
